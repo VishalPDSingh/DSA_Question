@@ -1,4 +1,4 @@
-package Ch1_Array;
+package Ch1_Array_2d_arrList;
 
 public class Reverse_Array {
     public static void reverse(int nums[]) {

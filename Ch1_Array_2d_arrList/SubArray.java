@@ -1,4 +1,4 @@
-package Ch1_Array;
+package Ch1_Array_2d_arrList;
 
 public class SubArray {
     public static void subArray(int arr[])
