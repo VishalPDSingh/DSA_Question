@@ -5,7 +5,7 @@ public class Leet268_MissingNumber {
     {
         if(nums == null || nums.length <=1)
         {
-            return;
+            return -1;
         }
        // find the largest number in the array
        int max = nums[0];
@@ -38,6 +38,7 @@ public class Leet268_MissingNumber {
             }
          }
        }
+       return -1;
     }
     public static void main(String[] args) {
         int nums[] = {0,4,1,2};
