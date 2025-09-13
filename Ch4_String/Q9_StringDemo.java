@@ -1,6 +1,6 @@
 package Ch4_String;
 
-public class StringDemo {
+public class Q9_StringDemo {
     public static void main(String[] args) {
 
         // method 1
